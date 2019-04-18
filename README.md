@@ -1,0 +1,2 @@
+# ilk
+İlk github'ım
